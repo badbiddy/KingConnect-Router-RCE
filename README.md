@@ -1,4 +1,4 @@
-# KKingConnect Wireless Router PoC: Unauthenticated Remote Code Execution
+# KingConnect Wireless Router PoC: Unauthenticated Remote Code Execution
 
 ## Overview
 - This repository contains a Proof-of-Concept (PoC) exploit for an Unauthenticated Remote Code Execution (RCE) vulnerability in KingConnect wireless routers. The exploit leverages a vulnerability in the /cgi-bin/SetSysTimeCfg endpoint, allowing attackers to execute arbitrary commands without authentication.
